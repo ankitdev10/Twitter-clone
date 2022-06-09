@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  background-color: #CDC2AE;
+  font-family: sans-serif;
+}
+
+.x{
+  text-align: left;
+  margin: 10px 15px;
+  font-size: 25px;
+  font-weight: lighter;
+}
+.loginpage{
+  background-color: white;
+  height: 650px;
+  width: 600px;
+  border-style: ridge;
+  border-radius: 24px;
+  position: absolute;
+  top: 25px;
+  left: 450px;
+}
+
+.logo{
+  width: 40px;
+  margin: 0;
+  position: absolute;
+  top: 10px;
+}
+
+h1 {
+  line-height: 80px;
+}
+
+.google{
+  text-decoration: none;
+  color: black;
+  border-style: solid;
+  padding: 10px 60px;
+  border-radius: 50px;
+  border-width: 1px;
+  font-size: 14px;
+}
+
+a:hover{
+  background-color: #CCF3EE;
+}
+
+.googlelogo{
+  width: 20px;
+  position: relative;
+  top: 5px;
+}
+
+.apple{
+  text-decoration: none;
+  color: black;
+  border-style: solid;
+  padding: 10px 50px;
+  border-radius: 50px;
+  border-width: 1px;
+  font-size: 14px;
+  position: relative;
+  top: 50px;
+}
+
+:hover{
+  background-color: #CCF3EE;
+}
+
+.applelogo{
+  width: 40px;
+  position: relative;
+  top: 5px;
+}
+
+.first {
+  width: 50%;
+  position: relative;
+  top: 80px;
+  left: 2px;
+}
+
+.form {
+  position: relative;
+  top: 90px;
+  width: 250px;
+  height: 60px;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.next {
+  position: relative;
+  top: 120px;
+  text-decoration: none;
+  color: white;
+  border-style: solid;
+  background:black;
+  padding: 10px 130px;
+  border-radius: 150px;
+}
+
+.password{
+  position: relative;
+  top: 160px;
+  text-decoration: none;
+  color: black;
+  border-style: solid;
+  background: white;
+  padding: 10px 90px;
+  border-radius: 150px;
+}
+
+.account{
+  position: absolute;
+  top: 550px;
+  left: 100px;
+}
+
+.sign{
+  text-decoration: none;
+
+
+
+}
